@@ -32,5 +32,6 @@ Solution for Automation Test with Ease
 The MIT License (MIT)
 
 [![paypal donate][paypal-image]][paypal-url]
+
 [paypal-image]: https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif
 [paypal-url]: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=xudafeng@126.com&currency_code=USD&amount=1&return=https://github.com/macacajs&item_name=Macaca&undefined_quantity=1&no_note=0
